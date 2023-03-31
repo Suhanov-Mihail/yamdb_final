@@ -1,4 +1,4 @@
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![workflow](https://github.com/Suhanov-Mihail/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## workflow
 
